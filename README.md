@@ -1,5 +1,5 @@
 # SvadbaNaClick
-!Important! Some Files have been removed from the project due to privacy
+!Important! Some Files have been removed from the project due to privacy.
 A web application that allows users to plan their "Dream Weeding" in just a few clicks. Technologies used: React/NodeJS/Tailwind/Javascript. 
 # License
 
